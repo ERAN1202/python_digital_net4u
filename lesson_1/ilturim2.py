@@ -24,3 +24,4 @@ while True:
         print("החלי סבב נוסף")
 
 print("goodbye")
+
