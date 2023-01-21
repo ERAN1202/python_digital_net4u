@@ -23,4 +23,5 @@ while True:
     else:
         print("החלי סבב נוסף")
 
-print("hello")
+print("see you)
+

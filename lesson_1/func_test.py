@@ -8,4 +8,4 @@ def calculate3(a,b):
 def calculate4():
     print((calculate2(1,5) * calculate3(2,4))
 
-print(calculate4())
+calculate4()
